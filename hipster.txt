@@ -1,1 +1,2 @@
 this is a test text of the file
+added text to the file
