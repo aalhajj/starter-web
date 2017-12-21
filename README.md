@@ -11,3 +11,6 @@ another example
 ## Deployment
 
 This includes deployment text
+
+### Copyright
+2017 Git.notice
