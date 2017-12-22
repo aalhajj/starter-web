@@ -2,6 +2,7 @@
 
 This repository is fosr showing how Git and GitHub work
 more text is added here
+add more info
 
 ## Purpose
 
